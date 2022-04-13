@@ -1,0 +1,50 @@
+1] What is the difference between Subquery and Corelational Query.
+2] Write a query to display a date of upcoming Friday?
+3] What is the difference between Row number,Rank and dense rank?
+4] How to display bottom 5 records from table?
+select top 5* from table_name order by column name desc.
+5] What is the difference between Alter and Update command?
+6] How to display dept wise minimum salary.
+7] What is the difference between DCL and TCL command?
+8] Write a query to write which display city name are not starting with vowels by using like operator.?
+9] Write 8th query by using substring.
+10]Write a query to update a employee salary by 10%?
+11] How to display the duplicate records.
+12] What is the difference between in,not in,between and exists operator.?
+13] What is the difference between inner join and equijoin?
+14]Explain the set operator.?
+15] Write a query to display a name whos name is starting at t and end at t?
+16] How to display missed out records from table 1 to table 2?
+17] How to display common records from two or more than two tables?
+18] How to display duplicate records from two or more than two tables.?
+19] Difference between Having and Where cluse?
+20] List the students who are living in a same city.
+21]If you have yearly some salary and how to display the monthly salary.
+22]Display Department wise rank and salary?
+23]Find the sum of salary of each department and then arrange records in desc order.
+24]Write a query to join 5 tables.?
+25]Select gender,age from Table where avg(age)>30 group by gender, please confirm whether this query is correct or not?
+26]Find out the avg salary from each department where avg salary is less than 50000?
+27] You can create a table which is having marks is greater than 40?
+28] Display the student name who are out of Maharashtra and they are only speaking English and Hindi language.?
+29] Extract the first 5 characters from name.
+30] 1,2,2,,null,null and 2,3,null,null please show all join results.
+31] Write a query to display 3rd last character of the name.?
+32] Simply Explain what is distinct and group by.
+33]Find the sum of dept except civil department.
+34] Write a query to display Male and Female alternate records.
+35] Write a query to create a table which is exact replica of first table.
+select *,replicate(tableA,1) as tableB  from tableA
+36] You have table different columns id name or status status column you can only true or false other than that it will not except any value.
+37]Suppose you one table from that you need to display longest or shortest name or city .
+38] add
+
+
+
+
+
+
+
+
+
+
